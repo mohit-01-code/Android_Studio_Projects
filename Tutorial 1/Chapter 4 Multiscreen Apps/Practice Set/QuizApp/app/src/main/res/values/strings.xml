@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Previous</string>
+
+    <string name="que_1">1. Which among the following was the first Indian woman who went into space?</string>
+    <string name="que_1_opt_A">A. Kalpana Chawla</string>
+    <string name="que_1_opt_B">B. Sunita Williams</string>
+    <string name="que_1_opt_C">C. Koneru Humpy</string>
+    <string name="que_1_opt_D">D. None of the above</string>
+
+
+    <string name="que_2">2. Who was the first Indian to go to space?</string>
+    <string name="que_2_opt_A">A. Vikram Ambalal</string>
+    <string name="que_2_opt_B">B. Ravish Malhotra</string>
+    <string name="que_2_opt_C">C. Rakesh Sharma</string>
+    <string name="que_2_opt_D">D. Nagapathi Bhat</string>
+
+    <string name="que_3">3. Who among the following was the first man to climb Mount Everest without supplemental oxygen?</string>
+    <string name="que_3_opt_A">A. Junko Tabei</string>
+    <string name="que_3_opt_B">B. Reinhold Messner</string>
+    <string name="que_3_opt_C">C. Duncan Chessell</string>
+    <string name="que_3_opt_D">D. Phu Dorji</string>
+
+    <string name="que_4">4. Who built the Jama Masjid?</string>
+    <string name="que_4_opt_A">A. Jahangir</string>
+    <string name="que_4_opt_B">B. Akbar</string>
+    <string name="que_4_opt_C">C. Imam Bukhari</string>
+    <string name="que_4_opt_D">D. Shah Jahan</string>
+
+    <string name="que_5">5. Who wrote the Indian National Anthem?</string>
+    <string name="que_5_opt_A">A. Bakim Chandra Chatterji</string>
+    <string name="que_5_opt_B">B. Rabindranath Tagore</string>
+    <string name="que_5_opt_C">C. Swami Vivekanand</string>
+    <string name="que_5_opt_D">D. None of the above</string>
+
+    <string name="que_6">6. Who was the first Indian Scientist to win a Nobel Prize?</string>
+    <string name="que_6_opt_A">A. C.V Raman</string>
+    <string name="que_6_opt_B">B. Amartya Sen</string>
+    <string name="que_6_opt_C">C. Hargobind Khorana</string>
+    <string name="que_6_opt_D">D. Subramanian Chrandrashekar</string>
+
+    <string name="que_7">7. Who is the first Indian to win a Nobel Prize?</string>
+    <string name="que_7_opt_A">A. Rabindranath Tagore</string>
+    <string name="que_7_opt_B">B. CV Raman</string>
+    <string name="que_7_opt_C">C. Mother Theresa</string>
+    <string name="que_7_opt_D">D. Hargobind Khorana</string>
+
+    <string name="que_8">8. Who was the first Indian woman to win the Miss World Title?</string>
+    <string name="que_8_opt_A">A. Aishwarya Rai</string>
+    <string name="que_8_opt_B">B. Sushmita Sen</string>
+    <string name="que_8_opt_C">C. Reita Faria</string>
+    <string name="que_8_opt_D">D. Diya Mirza</string>
+
+    <string name="que_9">9. Who was the first President of India?</string>
+    <string name="que_9_opt_A">A. Abdul Kalam</string>
+    <string name="que_9_opt_B">B. Lal Bahadur Shastri</string>
+    <string name="que_9_opt_C">C. Dr. Rajendra Prasad</string>
+    <string name="que_9_opt_D">D. Zakir Hussain</string>
+
+    <string name="que_10">10. Who was the first Indian to win the Booker Prize?</string>
+    <string name="que_10_opt_A">A. Dhan Gopal Mukerji</string>
+    <string name="que_10_opt_B">B. Nirad C. Chaudhuri</string>
+    <string name="que_10_opt_C">C. Arundhati Roy</string>
+    <string name="que_10_opt_D">D. Aravind Adiga</string>
+</resources>
